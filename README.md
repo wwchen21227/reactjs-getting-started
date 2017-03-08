@@ -1,3 +1,3 @@
 # reactjs-getting-started
 
-Add Card from github public api
+Card.js: Add Card from github public api
